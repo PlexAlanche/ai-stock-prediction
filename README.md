@@ -1,3 +1,3 @@
 # Artemis
 
-Artemis is a predictive model that uses machine learning algorithms to forecast stock prices or market trends. The model is built using Python and uses machine learning. Artemis leverages historical data and technical indicators to make predictions about future trends.
+Artemis is a predictive model that utilizes the scikit-learn library to forecast stock closing prices of a user's choosing. The program generates predictions  for the next day and next week for the selected stock.
